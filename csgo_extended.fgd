@@ -2461,7 +2461,7 @@
 [
 	weaponname(string) : "Weapon Classname" : "" : "Classname of the weapon type to limit."
 	maxpieces(integer) : "Max Allowed in Level"	: 0 : "The maximum amount of the specified weapon type allowed in the world."
-	ammomod(float)	   : "Ammo modifier" : 1 : 	"Modifier for ammount of ammo dropped by a weapon."
+	ammomod(float)	   : "Ammo modifier" : 1 : 	"Modifier for amount of ammo dropped by a weapon."
 
 	// Inputs
 	input SetAmmoModifier(float): "Adjust the ammo modifier."
